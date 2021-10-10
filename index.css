@@ -8,13 +8,14 @@
 .title{
     color: white;
     left: 40%;
+    bottom: 90%;
     position: absolute;
 }
 
 .rule{
     color: white;
-    bottom: 92%;
-    left: 8%;
+    bottom: 3%;
+    left: 10%;
     position: absolute;
     font-size: larger;
 }
@@ -22,9 +23,9 @@
 .result{
     color: white;
     position: absolute;
-    left: 30%;
+    left: 35%;
     bottom: 42%;
-    font-size: 5vh;
+    font-size: 3vh;
     align-self: center;
 }
 
